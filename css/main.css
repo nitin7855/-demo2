@@ -1,0 +1,612 @@
+* {
+    list-style-type: none;
+    box-sizing: border-box;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar {
+    width: 100%;
+}
+
+.ul {
+    background-color: black;
+    width: 100%;
+    padding: 15px 0px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.caro {
+    color: orange;
+
+}
+
+.serch {
+    color: white;
+    padding-right: 50px;
+}
+
+.bar {
+    color: white;
+    padding-left: 50px;
+}
+
+.sec-a {
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.long {
+    color: orange;
+}
+
+.sec-b {
+    display: flex;
+    background-color: black;
+    justify-content: space-around;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 20px;
+}
+
+.car {
+    height: 200px;
+    width: 40%;
+}
+
+.icon{
+    color: white;
+    position: relative;
+    top: 90px;
+    background-color: orange;
+    height: 40px;
+    width: 40px;
+    font-size: 20px;
+    border-radius: 50px;
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+.sec-c {
+    text-align: center;
+    width: 100%;
+    margin-top: 50px;
+    background-image: url(/img/01.png);
+    height: 210px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 60px;
+
+}
+
+.sec-d {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.back {
+    height: 290px;
+    width: 27%;
+    background-color: rgb(202, 202, 202);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+}
+
+.man {
+    height: 240px;
+    width: 90%;
+
+}
+
+.button {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.btn {
+    background-color: orange;
+    border: none;
+    color: white;
+    padding: 10px 12px;
+}
+
+.sec-e {
+    text-align: center;
+    width: 100%;
+    margin-top: 50px;
+    background-image: url(/img/02.png);
+    height: 210px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 60px;
+}
+
+.sec-f {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.org {
+    font-size: 50px;
+    color: orange;
+}
+
+.white {
+    color: white;
+    padding-top: 5px;
+}
+
+.box-1 {
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 50px 5px 5px 5px;
+    height: 100px;
+}
+
+.box-3 {
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 50px 5px 5px 5px;
+    height: 100px;
+}
+
+.box-one {
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.box-two {
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.sec-g {
+    width: 100%;
+    background-image: url(/img/renge\ rover.png);
+    display: flex;
+    margin-top: 100px;
+
+}
+
+.left {
+    width: 14%;
+}
+
+.right {
+    width: 45%;
+    color: white;
+}
+
+.con-top {
+    margin-top: 130px;
+    margin-bottom: 50px;
+}
+
+.con-bot {
+    margin-top: 50px;
+    display: flex;
+
+}
+
+.con-left {
+    color: orange;
+}
+
+.con-right {
+    padding-left: 5px;
+}
+
+.sec-x {
+    text-align: center;
+    width: 100%;
+    margin-top: 50px;
+    background-image: url(/img/04.png);
+    height: 210px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 70px;
+}
+
+.sec-h {
+    width: 100%;
+    margin-top: 50px;
+}
+
+.audi {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.audi-one {
+    width: 40%;
+    height: 200px;
+}
+
+.audi-two {
+    width: 40%;
+    height: 200px;
+}
+
+.appoitment {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.btn-one {
+    background-color: orange;
+    border: none;
+    color: white;
+    padding: 5px 50px;
+    margin-right: 20px;
+}
+
+.btn-two {
+    background-color: rgb(25, 25, 25);
+    border: none;
+    color: white;
+    padding: 5px 50px;
+}
+
+.sec-i {
+    text-align: center;
+    width: 100%;
+    margin-top: 50px;
+    background-image: url(/img/05.png);
+    height: 210px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 70px;
+}
+
+.sec-j {
+    width: 100%;
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+}
+
+.bg {
+    background-color: black;
+    padding: 25px 10px;
+}
+
+.owner-one {
+    color: white;
+    width: 30%;
+    text-align: center;
+    padding: 20px;
+    margin-right: 5px;
+    justify-content: center;
+
+}
+
+.owner-two {
+    color: white;
+    width: 30%;
+    text-align: center;
+    padding: 20px;
+    margin-left: 5px;
+}
+
+.squre {
+    background-color: black;
+    height: 40px;
+    width: 40px;
+    transform: rotate(50deg);
+    position: relative;
+    left: 45%;
+    top: -30px;
+    z-index: -1;
+
+}
+
+.set-img {
+    height: 100px;
+    width: 100px;
+}
+
+.sec-k {
+    text-align: center;
+    width: 100%;
+    margin-top: 50px;
+    background-image: url(/img/06.png);
+    height: 210px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 70px;
+}
+
+.sec-l {
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.text {
+    padding: 10px 10px 10px 10px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(234, 233, 230);
+}
+
+.sub {
+    padding: 10px 200px 10px 10px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgb(234, 233, 230);
+    margin-top: 5px;
+}
+
+.send {
+    background-color: orange;
+    border: none;
+    color: white;
+    padding: 10px 60px;
+    margin-right: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+.maps {
+    width: 100%;
+    height: 250px;
+    margin-top: 100px;
+}
+
+footer {
+    background-color: black;
+    width: 100%;
+    padding-bottom: 30px;
+}
+
+.footer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.foot {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+}
+
+.foot-one {
+    color: white;
+}
+
+.foot-two {
+    color: white;
+}
+
+.foot-three {
+    color: white;
+}
+
+.foot-four {
+    color: white;
+}
+
+.email {
+    background-color: white;
+    border: none;
+    color: black;
+    padding: 5px 10px;
+    margin-top: 10px;
+}
+
+.subc {
+    background-color: rgb(227, 171, 65);
+    border: none;
+    color: black;
+    padding: 5px 60px;
+    margin-top: 10px;
+}
+
+.font {
+    color: rgb(76, 70, 70);
+    margin-top: 10px;
+}
+
+.icons {
+    text-align: center;
+    display: flex;
+    color: black;
+    background-color: white;
+    height: 25px;
+    padding-top: 5px;
+    border-radius: 50px;
+    width: 25px;
+    margin-left: 5px;
+    margin-top: 10px;
+
+}
+
+.foot-doun {
+    text-align: center;
+    width: 100%;
+    color: white;
+}
+
+@media (max-width:1024px) {
+    .car {
+        height: 180px;
+        width: 50%;
+    }
+
+    .back {
+        width: 40%;
+    }
+
+    .audi-one {
+        width: 45%;
+        height: 200px;
+    }
+
+    .audi-two {
+        width: 45%;
+    }
+
+    .owner-one {
+        width: 45%;
+    }
+
+    .owner-two {
+        width: 45%;
+    }
+}
+
+@media (max-width:900px) {
+    .left {
+        width: 30%;
+    }
+
+    .audi-one {
+        display: none;
+    }
+
+    .sec-j {
+        display: block;
+        justify-content: space-between
+    }
+
+    .owner-two {
+        width: 95%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+
+    }
+
+    .owner-one {
+        width: 95%;
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+    .squre{
+        left: 0;
+    }
+
+    .foot {
+
+        width: 90%;
+    }
+
+    .foot-one {
+        width: 50%;
+    }
+
+    .foot-two {
+        width: 50%;
+    }
+
+    .foot-three {
+        width: 50%;
+    }
+
+    .foot-four {
+        width: 50%;
+    }
+
+    .audi-two {
+        width: 60%;
+    }
+
+    .car {
+        height: 180px;
+        width: 70%;
+    }
+
+    .back {
+        width: 60%;
+    }
+}
+
+@media (max-width:400px) {
+
+    .car {
+        height: 86px;}
+
+        .icon{ 
+            top: 30px;
+            height: 35px;
+            width: 35px;
+            font-size: 15px;
+           
+        
+        }
+        .back{
+            width: 90%;
+        }
+        .left{
+            width: 5%;
+        }
+        .right{
+            width: 90%;
+        }
+        .audi-two{
+            width: 95%;
+            height: 150px;
+        }
+        .foot{
+            display: block;
+        }
+        .foot-one{
+            width: 100%;
+            text-align: center;
+            margin-top: 10px;
+        }
+        .foot-two{
+            width: 100%;
+            text-align: center;
+            margin-top: 10px;
+        }
+        .foot-three{
+            width: 100%;
+            text-align: center;
+            margin-top: 10px;
+        }
+        .foot-four{
+            width: 100%;
+            text-align: center;
+            margin-top: 10px;
+        }
+        .maps{
+            height: 150px;
+        }
+
+}
